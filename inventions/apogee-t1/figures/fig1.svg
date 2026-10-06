@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fff"/>
+  <rect x="200" y="150" width="400" height="300" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="580" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14">FIG. 1</text>
+  <line x1="300" y1="200" x2="300" y2="400" stroke="#111" stroke-width="2"/>
+  <line x1="500" y1="200" x2="500" y2="400" stroke="#111" stroke-width="2"/>
+  <circle cx="300" cy="220" r="15" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="500" cy="220" r="15" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="300" y="225" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10">32</text>
+  <text x="500" y="225" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10">32</text>
+  <line x1="300" y1="450" x2="300" y2="500" stroke="#111" stroke-width="2"/>
+  <line x1="500" y1="450" x2="500" y2="500" stroke="#111" stroke-width="2"/>
+  <text x="300" y="520" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10">34</text>
+  <text x="500" y="520" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10">34</text>
+  <line x1="250" y1="300" x2="280" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="240" y="305" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="10">16</text>
+  <line x1="550" y1="300" x2="520" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="560" y="305" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10">18</text>
+  <line x1="400" y1="120" x2="400" y2="150" stroke="#111" stroke-width="2"/>
+  <text x="400" y="110" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10">30</text>
+</svg>
