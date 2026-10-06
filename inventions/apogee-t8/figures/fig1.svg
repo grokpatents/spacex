@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#fff"/>
+  <!-- Firewall plate -->
+  <rect x="50" y="200" width="700" height="6" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="190" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">firewall (16)</text>
+  <!-- Valve body -->
+  <rect x="340" y="180" width="120" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="175" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">valve body (12)</text>
+  <!-- Opening in firewall -->
+  <rect x="380" y="200" width="40" height="6" fill="#fff" stroke="#111" stroke-width="1"/>
+  <!-- Poppet -->
+  <polygon points="360,220 440,220 430,260 370,260" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="280" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">poppet (18)</text>
+  <!-- Spring -->
+  <path d="M370,260 Q380,280 370,300 Q360,320 370,340" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M430,260 Q420,280 430,300 Q440,320 430,340" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="355" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">spring (20)</text>
+  <!-- Seal -->
+  <rect x="365" y="215" width="70" height="8" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="480" y="225" font-family="Helvetica, Arial, sans-serif" font-size="11">seal (26)</text>
+  <line x1="435" y1="220" x2="475" y2="220" stroke="#111" stroke-width="1"/>
+  <!-- Heat shield duct -->
+  <rect x="360" y="340" width="80" height="150" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="510" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">heat shield duct (24)</text>
+  <!-- Leader to opening -->
+  <line x1="400" y1="206" x2="300" y2="150" stroke="#111" stroke-width="1"/>
+  <text x="280" y="145" font-family="Helvetica, Arial, sans-serif" font-size="11">opening (14)</text>
+  <!-- Cavity indicator -->
+  <line x1="100" y1="180" x2="100" y2="120" stroke="#111" stroke-width="1"/>
+  <text x="100" y="110" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">cavity (22)</text>
+  <!-- Pressure sensor -->
+  <circle cx="300" cy="160" r="12" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="300" y="165" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle">28</text>
+  <line x1="312" y1="160" x2="340" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="350" y="155" font-family="Helvetica, Arial, sans-serif" font-size="11">sensor (28)</text>
+  <!-- Burst disk location -->
+  <rect x="420" y="185" width="25" height="4" fill="none" stroke="#111" stroke-width="1.5"/>
+  <line x1="432" y1="189" x2="480" y2="140" stroke="#111" stroke-width="1"/>
+  <text x="490" y="135" font-family="Helvetica, Arial, sans-serif" font-size="11">burst disk (30)</text>
+  <!-- Engine nozzle hint -->
+  <rect x="100" y="400" width="60" height="120" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="130" y="540" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">engine</text>
+  <!-- Hatching on duct section -->
+  <path d="M365,350 L375,360 M375,350 L385,360 M385,350 L395,360" fill="none" stroke="#111" stroke-width="0.8"/>
+  <path d="M365,370 L375,380 M375,370 L385,380" fill="none" stroke="#111" stroke-width="0.8"/>
+  <!-- Caption -->
+  <text x="400" y="590" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+</svg>
