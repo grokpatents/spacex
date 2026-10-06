@@ -1,0 +1,33 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#fff"/>
+  <rect x="150" y="80" width="500" height="440" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="105" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">API Server (20)</text>
+  <line x1="50" y1="200" x2="150" y2="200" stroke="#111" stroke-width="2"/>
+  <polygon points="150,195 160,200 150,205" fill="#111"/>
+  <text x="40" y="195" font-family="Helvetica, Arial, sans-serif" font-size="11">GET /post</text>
+  <rect x="180" y="150" width="120" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="240" y="185" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Post (12)</text>
+  <rect x="350" y="150" width="140" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="420" y="185" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Fingerprint Module (22)</text>
+  <rect x="530" y="150" width="100" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="580" y="180" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Fingerprint (14)</text>
+  <rect x="180" y="280" width="120" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="240" y="310" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Requester ID (16)</text>
+  <rect x="350" y="280" width="140" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="420" y="315" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Comparator (24)</text>
+  <rect x="530" y="270" width="120" height="70" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="590" y="300" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Mirror Pattern</text>
+  <text x="590" y="315" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Database (18)</text>
+  <rect x="350" y="400" width="140" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="420" y="430" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Rate Limiter (26)</text>
+  <rect x="530" y="400" width="100" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="580" y="430" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Token Store (28)</text>
+  <line x1="300" y1="180" x2="350" y2="180" stroke="#111" stroke-width="1.5"/>
+  <line x1="490" y1="180" x2="530" y2="175" stroke="#111" stroke-width="1.5"/>
+  <line x1="240" y1="230" x2="240" y2="280" stroke="#111" stroke-width="1.5"/>
+  <line x1="420" y1="210" x2="420" y2="280" stroke="#111" stroke-width="1.5"/>
+  <line x1="490" y1="310" x2="530" y2="305" stroke="#111" stroke-width="1.5"/>
+  <line x1="420" y1="340" x2="420" y2="400" stroke="#111" stroke-width="1.5"/>
+  <line x1="490" y1="425" x2="530" y2="425" stroke="#111" stroke-width="1.5"/>
+  <text x="400" y="560" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">FIG. 1</text>
+</svg>
